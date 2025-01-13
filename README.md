@@ -3,6 +3,16 @@ Hej! Jag heter Hugo Andersson och jag älskar att koda. 🚀
 
 ## Om mig
 - 🎓 Studerar Systemutveckare-Objektorienterad Systemutveckling vid NBI - Handelsakademin, Göteborg
+- 25 årig student från Skåne som flyttat till göteborg för att plugga programmering
+- Brinner för fysik aktivitet som golf, gym m.m
+
+## 🛠 Verktyg och Teknologier
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 🌟 Statistik
 ![Dina GitHub-statistik](https://github-readme-stats.vercel.app/api?username=HugoAndersson99&show_icons=true&theme=radical)
