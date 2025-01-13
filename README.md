@@ -1,4 +1,11 @@
-## Hi there 👋
+# 🌟 Välkommen till min GitHub-profil!
+Hej! Jag heter Hugo Andersson och jag älskar att koda. 🚀
+
+## Om mig
+- 🎓 Studerar Systemutveckare-Objektorienterad Systemutveckling vid NBI - Handelsakademin, Göteborg
+
+## 🌟 Statistik
+![Dina GitHub-statistik](https://github-readme-stats.vercel.app/api?username=HugoAndersson99&show_icons=true&theme=radical)
 
 <!--
 **HugoAndersson99/HugoAndersson99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
