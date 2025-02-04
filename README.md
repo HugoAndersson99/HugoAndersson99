@@ -4,7 +4,9 @@ Hej! Jag heter Hugo Andersson och jag älskar att koda. 🚀
 ## Om mig
 - 🎓 Studerar Systemutveckare-Objektorienterad Systemutveckling vid NBI - Handelsakademin, Göteborg
 - 25 årig student från Skåne som flyttat till göteborg för att plugga programmering
-- Brinner för fysik aktivitet som golf, gym m.m
+- Nyfiken och lätt lärd som strävar efter att utvecklas hela tiden
+- Brinner för Clean Code och smart arkitektur
+- Brinner för fysisk aktivitet som golf, gym, padel m.m
 
 ## 🛠 Verktyg och Teknologier
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
